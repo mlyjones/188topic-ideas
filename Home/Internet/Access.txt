@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T17:23:23-08:00
+
+====== Access ======
+//Internet access is a major challenge -- infrastructure, funding, content moderation, legislation and more. The internet is at the heart of a lot of technologies and services that interact with society. This page just has some links that act as a starting point.//
+
+==== Utility / fundamental right ====
+* In 2018 Verizon throttled data for Firefighters responding to the Paradise fires in California
+	https://arstechnica.com/tech-policy/2018/08/fire-dept-rejects-verizons-customer-support-mistake-excuse-for-throttling/
+	https://arstechnica.com/tech-policy/2018/08/verizon-tries-to-douse-criticism-touts-priority-access-for-first-responders/  
+	https://arstechnica.com/tech-policy/2018/09/verizon-throttling-firefighters-may-have-violated-fcc-rule-democrats-say/ 
+* Then later the same year got in trouble for doing the same thing with Hurricane Florence responders
+	https://www.washingtonpost.com/technology/2018/09/18/verizon-denies-throttling-mobile-data-hurricane-florence-victims/?utm_term=.2d2b0b4222e7 
+	https://electrek.co/2018/09/12/tesla-releasing-more-battery-capacity-free-supercharging-hurricane-florence/ 
+* Data caps & net neutrality
+	https://arstechnica.com/tag/net-neutrality-day/ 
+	https://arstechnica.com/information-technology/2020/05/worst-case-scenario-why-the-cable-lobby-is-scared-of-becoming-a-utility/ 
+see [[Internet:Net_Neutrality]]
+
+==== Socioeconomic barriers / geographical barriers ====
+	http://www.broadband.gov/rural_areas.html
+	https://arstechnica.com/information-technology/2017/06/verizon-wireless-disconnects-some-heavy-data-users-in-rural-areas/
+	https://arstechnica.com/information-technology/2017/01/when-home-internet-service-costs-5000-or-even-15000/ 
+	https://arstechnica.com/tech-policy/2018/07/fcc-stands-by-decision-to-raise-broadband-prices-on-american-indians/
+* Pandemic response Verizon 
+	https://arstechnica.com/tech-policy/2020/04/verizon-refuses-to-give-dsl-users-its-low-income-deals-during-pandemic/ 
+* Big Companies vs municipalities
+	https://www.npr.org/2020/05/29/865908114/small-america-vs-big-internet 
+* Some countries have major internet accessibility only through cell service
+* Firewalls and censorship (eg. great firewall of China)
+
+==== Networking ====
+* lora alliance seeks to connect internet devices " A non-profit association that has become one of the largest  alliances in the technology sector, committed to enabling large scale deployment of Low Power Wide Area Networks (LPWAN) IoT through the development and promotion of the LoRaWAN® open standard. Members benefit from a vibrant ecosystem of active contributors offering solutions, products & services, which create new and sustainable business opportunities."
+	https://www.lora-alliance.org/
+
+====== Unsorted ======
+
+==== Content Streaming ====
+* Netflix, Hulu, Youtube... changes in content distribution and consumption
+* Algorithms for your preferences / privacy?
+
+== Porn ==
+Revenge porn
+Deepfakes
+Scams
+	https://arstechnica.com/tech-policy/2021/03/jane-does-v-girlsdoporn-how-22-millennial-women-brought-down-a-porn-empire/
+
+[[Internet:Darkweb]]

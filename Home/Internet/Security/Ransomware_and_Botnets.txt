@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T19:48:49-08:00
+
+====== Ransomware and Botnets ======
+
+==== Botnets and Ransomware ====
+NotPetya, Petya, Mirai, Satori, Locky …
+* Hospitals as targets (//notably// Locke)
+* Governments as targets (...Atlanta)
+* Infrastructure as targets (Florida water treatment facility)
+SATORI
+	https://krebsonsecurity.com/2018/09/alleged-satori-iot-botnet-operator-sought-media-spotlight-got-indicted/ 
+NOTPETYA
+	https://threatpost.com/maersk-shipping-reports-300m-loss-stemming-from-notpetya-attack/127477/ 
+	https://www.recode.net/2017/6/27/15881666/global-eu-cyber-attack-us-hackers-nsa-hospitals 
+	https://www.recode.net/2017/6/27/15880024/ransomware-attack-infecting-computers-shipping-oil-companies-worldwide-petya-ukraine-hack 
+//Good accounts of this attack by DarkNet Diaries and Malicious Life podcasts//
+LOCKY
+	https://arstechnica.com/security/2016/11/locky-ransomware-decoy-image-files-boobytrap-facebook-linkedin/
+	https://arstechnica.com/security/2017/01/ransomware-app-hosted-in-google-play-infects-unsuspecting-android-user/
+	http://www.healthcareitnews.com/slideshow/ransomware-see-hospitals-hit-2016?page=1 
+Eternal Blue Exploit
+WannaMine 
+	https://www.pandasecurity.com/mediacenter/mobile-news/wannamine-cryptomining-malware/ 
+WannaCry
+SamSam
+	https://www.wired.com/story/atlanta-spent-26m-recover-from-ransomware-scare/
+
+==== Unsorted ====
+Botnets and blockchain
+	https://www.zdnet.com/article/this-botnet-is-abusing-bitcoin-blockchains-to-stay-in-the-shadows/
+

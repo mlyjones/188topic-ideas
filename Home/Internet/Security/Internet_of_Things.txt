@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T19:51:26-08:00
+
+====== Internet of Things ======
+
+==== Security ====
+* Shodan (Search engine for vulnerable/open IoT devices)
+* Default unchangeable passwords
+	https://en.wikipedia.org/wiki/Mirai_(malware) 
+* Bricking devices with vulnerabilities 
+	https://www.theregister.co.uk/2017/04/08/brickerbot_malware_kills_iot_devices/ 
+* Unintended vulnerabilities
+	https://arstechnica.com/security/2017/02/creepy-iot-teddy-bear-leaks-2-million-parents-and-kids-voice-messages/ 
+Sex toys and TMI
+	https://www.siliconrepublic.com/machines/we-vibe-iot-sex-toy
+	https://www.wired.com/story/internet-connected-sex-toys-security/
+Ransomware
+	(coffee maker demands ransom) https://apple.news/AcFHxAxd3TCmS4gYJyYEpsg
+
+
+==== Botnets ====
+Mirai and Botnets/ Malware
+	https://www.tripwire.com/state-of-security/security-data-protection/iot/protecting-critical-infrastructure-age-iot/
+
+
+==== Surveillance ====
+* Domestic abuse
+Behavior Monitoring
+	https://www.nytimes.com/2018/06/23/technology/smart-home-devices-domestic-abuse.html 
+	https://gizmodo.com/domestic-abusers-are-increasingly-weaponizing-smart-hom-1827103668  
+* Privacy
+Human Movement Recognition Based on the Stochastic Characterisation of Acceleration Data 
+	https://www.mdpi.com/1424-8220/16/9/1464
+	https://www.techdirt.com/articles/20170828/08152938092/iot-devices-provide-comcast-wonderful-new-opportunity-to-spy-you.shtml
+
+==== Design ====
+* Manufacturing (materials, labor, etc)
+* Lifetime planning (//if company goes under is there still going to be support for the device?//)
+* Security
+
+==== Unsorted ====
+	https://www.msn.com/en-in/money/technology/amazon-faces-a-privacy-backlash-for-its-sidewalk-feature-which-turns-alexa-devices-into-neighborhood-wifi-networks-that-owners-have-to-opt-out-of/ar-BB1boljH

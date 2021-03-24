@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:36:05-08:00
+
+====== Genotyping and Design ======
+
+==== Genotyping ====
+Personalized Medicine (pharmacogenetics)
+Insurance
+Discrimination (?)
+Solving crimes
+	https://www.wired.com/story/the-future-of-crime-fighting-is-family-tree-forensics/
+
+==== Gene Editing ====
+CrispR
+Designer Babies

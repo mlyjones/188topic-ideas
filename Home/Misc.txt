@@ -1,0 +1,71 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-02T22:25:18-08:00
+
+====== Misc ======
+
+==== Images/Ads as attack vectors ====
+	https://www.bleepingcomputer.com/news/security/twitter-images-can-be-abused-to-hide-zip-mp3-files-heres-how/
+
+==== What3Words ====
+ (mapping the world/// mongolian postal system) 
+	https://what3words.com/ 
+	https://map.what3words.com/ 
+	http://www.npr.org/2016/06/19/482514949/welcome-to-mongolias-new-postal-system-an-atlas-of-random-words
+
+==== Life in the digital now ====
+	https://www.ted.com/talks/abha_dawesar_life_in_the_digital_now
+
+==== Political ====
+Bloomberg’s 2020 campaign
+Qualcomm granddaughter
+	https://www.vox.com/recode/2020/3/4/21162400/irwin-jacobs-qualcomm-sara-jacobs-san-diego-congress
+Voting apps :\
+Gerrymandering
+Electronic Voting Machines
+Lobbying
+Pharmaceutical Detailing
+Misinformation campaigns [ ex “sound science” Hill & Knowlton : Tobacco]
+
+==== Alternative Camera Uses ====
+Reconstruct audio from ambient environment (Chip bag example)
+	https://www.youtube.com/watch?v=FKXOucXB4a8
+	http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804 
+Heartbeat monitoring
+	https://www.extremetech.com/computing/159309-mit-researchers-measure-your-pulse-detect-heart-abnormalities-with-smartphone-camera
+	https://github.com/thearn/webcam-pulse-detector
+	http://www.ignaciomellado.es/blog/Measuring-heart-rate-with-a-smartphone-camera
+“Detecting Pulse From Head Motions in Video” 
+	https://www.youtube.com/watch?v=EhZXDgG9oSk
+Physics - particle research eg Higgs-Boson
+Surveillance
+Anti-theft
+
+==== Grid and animals ====
+Power Grid disruption by animals
+	https://cybersquirrel1.com/
+
+==== Artificial womb ====
+Dr. Emily Partridge
+https://www.cbc.ca/news/health/womb-artificial-1.4085545
+
+==== DNA as a storage device ====
+	http://www.cbc.ca/radio/quirks/one-minute-of-exercise-fukushima-robots-fail-dna-stores-everything-but-the-kitchen-sink-1.4019376/scientists-stored-an-amazon-gift-card-on-some-dna-1.4019398
+	https://motherboard.vice.com/en_us/article/7xe3dx/dna-storage-bitcoin-mystery-puzzle
+
+==== Chemical signaling ====
+DETECTING CHEMICAL SIGNALING / SOCIAL NETWORKS IN ANIMALS 
+	http://www.cbc.ca/radio/quirks/digging-up-pharaohs-biofuels-in-the-sky-lawrence-krauss-on-why-we-re-here-1.4027618/rhino-social-network-rhymes-with-twitter-1.4027650
+
+==== Odd old tech ====
+	https://arstechnica.com/science/2017/06/a-pigeon-piloted-bomb-odd-powders-and-cryptic-science-ars-goes-to-nist/
+
+==== Amazon Showdown Seattle ====
+2018
+	https://www.bloomberg.com/news/articles/2018-05-15/inside-amazon-s-big-showdown-with-seattle-jh89g3z3
+
+==== Chaos Engineering ====
+	https://www.oreilly.com/library/view/chaos-engineering/9781491988459/
+	Precision Chaos -2017- Netflix https://www.youtube.com/watch?v=C11LNUEaHuo
+	
+

@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-03T19:57:57-08:00
+
+====== Darkweb ======
+//Different from the deep web. Always clarify what this means. //
+
+==== Markets ====
+Hansa
+Silk Road
+Alpha Bay
+
+==== Trafficking ====
+Drugs
+Humans
+Wildlife
+
+==== Cryptocurrency ====
+Affiliations with illicit activities
+Cryptojacking
+for more see [[Internet:Cryptocurrencies]]
+

@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:20:03-08:00
+
+====== Workplace Automation ======
+
+Robotics
+	https://www.bloomberg.com/news/audio/2018-04-30/the-race-to-teach-robots-how-to-do-our-jobs 
+Economics (universal basic income?)
+Tracking employees
+	https://www.locix.com/
+Sex workers (& robotic humans) 
+	https://www.npr.org/2020/04/13/833331551/sex-machines-love-in-the-age-of-robots 
+Medicine/education/service sector
+Opposition - Luddites
+UPS truck 
+	https://www.npr.org/sections/money/2016/06/08/481295201/episode-536-the-future-of-work-looks-like-a-ups-truck
+
+==== Other ====
+Fissured Workplace (book)
+* Contractors vs Employees
+	The Uncertain Hour Season ? Air Feb 2021 First episode is "Congratulations! You're an entrepreneur now"
+	https://arstechnica.com/tech-policy/2021/02/uk-supreme-court-says-uber-drivers-are-not-independent-contractors/
+

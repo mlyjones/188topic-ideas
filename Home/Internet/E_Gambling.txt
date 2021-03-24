@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T17:59:32-08:00
+
+====== E Gambling ======
+//Electronic gambling, has some of the very same issues as in-person casinos, but also issues very specific to the internet. Also may include loot boxes or skin gambling. Again, just a starting point for the topic.//
+
+==== Online casinos ====
+* Legislation
+* Accessibility (& addiction)
+* Geophysical ‘boundaries’ / location
+* Ensuring player identity (underage/money laundering/actual funds..)
+* Algorithm transparency? Cheating the system...?
+
+==== Skin Gambling ====
+	https://arstechnica.com/gaming/2018/09/ea-defies-belgian-loot-box-decision-setting-up-potential-gambling-lawsuit/ 
+* third party stores and skirting legality
+
+==== Day trading ====
+//With the 2020-2021 r/Wallstreetbets events --- apps like Robinhood came under greater scrutiny//
+
+==== Cryptocurrency ====
+//Solid investment or a big gamble?//
+More links on cryptocurrency [[Internet:Cryptocurrencies]] 
+

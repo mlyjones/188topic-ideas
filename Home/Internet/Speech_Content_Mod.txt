@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T17:36:35-08:00
+
+====== Speech Content Mod ======
+
+==== Free Speech ====
+	https://arstechnica.com/tech-policy/2020/02/first-amendment-doesnt-apply-on-youtube-judges-reject-prageru-lawsuit/ 
+	https://www.npr.org/2018/09/06/645352618/twitter-bans-alex-jones-and-infowars-cites-abusive-behavior 
+* Gab, Parler, etc
+* Facebook and the Rohingya Genocide
+
+==== Content Moderation ====
+	https://www.bloomberg.com/news/audio/2017-03-30/inside-youtube-s-battle-against-the-internet-s-darkest-corners 
+	https://www.wnycstudios.org/story/post-no-evil 
+	https://arstechnica.com/tech-policy/2020/05/youtube-auto-deletes-comments-with-phrases-critical-of-chinese-government/ 
+	https://arstechnica.com/science/2020/03/how-facebook-is-trying-to-keep-ai-one-step-ahead-of-spammers-and-scammers/ 
+* Alex Jones
+	https://arstechnica.com/tech-policy/2018/09/alex-jones-permanently-suspends-from-twitter-after-latest-violations/ 
+* Facebook and the Rohingya genocide
+	https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/ 
+	https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html 
+* Fake official pages
+	https://gimletmedia.com/episode/76-lost-in-a-cab/
+
+==== Section 230 ====
+	https://arstechnica.com/tech-policy/2020/06/section-230-the-internet-law-politicians-love-to-hate-explained/
+
+==== Fake News ====
+* gov sponsored
+	https://www.wired.com/2017/02/veles-macedonia-fake-news/ 
+China’s 10 cent army
+* Tracking fake news
+* Content monitoring
+* Platform content moderation 
+* Detecting Twitter BOT accounts -realtime
+	https://thecyberwire.com/podcasts/research-saturday/145/notes 
+* Malicious misinformation
+	https://arstechnica.com/science/2020/05/fired-scientist-back-to-peddling-anti-vaxx-covid-19-conspiracy-theories/
+
+==== Social media ====
+//(better formatting and more content on the social media subpage)//
+Filter bubbles & Echo-chambers
+Cyberbullying
+Slacktivism & Activism
+Personal Data & Security
+Fake News
+
+[[+Social_Media]]
+

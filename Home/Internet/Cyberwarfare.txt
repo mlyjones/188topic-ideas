@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T20:50:54-08:00
+
+====== Cyberwarfare ======
+//Digital vs Kinetic warfare//
+
+Attribution - actually identifying perpetrators can be difficult; especially with intentional obsfucation
+Critical infrastructure
+Examples, kind of…
+	https://www.cnn.com/2018/03/27/us/atlanta-ransomware-computers/index.html 
+	https://arstechnica.com/information-technology/2016/11/san-francisco-muni-hit-by-black-friday-ransomware-attack/ 
+Ransomware 
+See [[Security:Ransomware and Botnets]] 

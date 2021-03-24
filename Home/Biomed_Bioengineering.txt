@@ -1,0 +1,58 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:27:18-08:00
+
+====== Biomed Bioengineering ======
+
+==== Biomedical enhancements ====
+Drugs/steroids
+External tools (artificial exoskeletons, etc.)
+Transhumanism
+Ex - Hear color (https://www.ted.com/talks/neil_harbisson_i_listen_to_color )
+‘cyborgs’
+Blood doping
+
+==== Bioengineering ====
+Patent infringement
+Monsanto seeds
+Animals
+Animal Welfare
+Unnatural design?
+Genetic Diversity
+Cloning
+Design/feasibility
+Consenting genetic donor 
+Clone autonomy 
+Transgenes
+Xenotransplantation
+Animal welfare
+Consent
+Safety
+Plants
+Self-pesticide production
+Vitamin fortification
+More robust individuals 
+Crossing with wild types / genetic diversity … 
+Organs
+	https://arstechnica.com/science/2017/03/spinach-leaf-transforms-into-sheet-of-beating-human-heart-cells/ 
+Safety
+Humans “Designer Babies”
+14 day rule (The Primitive Streak : Radiolab http://www.radiolab.org/story/primitive-streak/ )
+Discovery BBC “Extending Embryo Research” http://www.bbc.co.uk/programmes/p04xd53m 
+CRISPR-cas9
+For Medical purposes (Bacteria, Virus, pig cornea, etc. )  
+Genetic Engineering in the Future 
+	http://www.cbc.ca/radio/quirks/psychedelic-drugs-and-depression-runaway-stars-bird-flu-battle-and-more-1.4036396/are-we-prepared-for-our-gene-altered-future-1.4036540
+Laws & Regulations
+Lab grown meat
+
+==== Antibiotics ====
+Resistance
+Health Impacts
+Alternatives (eg. bacteriophage)
+
+==== Brain to Brain Interfaces ====
+//Controlling computers with brains//
+	http://www.cbc.ca/radio/quirks/don-t-pee-in-the-pool-bees-play-ball-and-lucid-dreaming-1.4008562/can-we-control-computers-with-our-dreams-1.4008629 
+“Mind reading” Discovery BBC 
+	http://www.bbc.co.uk/programmes/p04h45x8 

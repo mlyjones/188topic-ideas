@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:39:47-08:00
+
+====== EULA and laws ======
+Created Tuesday 02 March 2021
+
+==== EULA ====
+Fine print practices (‘legalese’, opt-in by default, etc)
+How binding is it really?
+
+==== Some relevant laws to tech things ====
+LAWS
+Katz vs USA
+All Writs Act 1718?
+Computer Fraud and Abuse Act
+Anti-drone (jamming illegal in CA ...)
+5th Amendment
+	https://arstechnica.com/tech-policy/2020/08/nj-supreme-court-no-5th-amendment-right-not-to-unlock-your-phone/
+Apple Vs FBI
+All Writs act
+	https://arstechnica.com/tech-policy/2020/08/nj-supreme-court-no-5th-amendment-right-not-to-unlock-your-phone/ 
+Computer Fraud Securities Act & ‘Hacking Back’ 
+	https://motherboard.vice.com/en_us/article/qvvke7/email-provider-protonmail-says-it-hacked-back-then-walks-claim-back 
+

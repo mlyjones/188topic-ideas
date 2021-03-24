@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-03T13:48:01-08:00
+
+====== Encryption ======
+
+==== Value ====
+	https://www.schneier.com/essays/archives/2016/04/the_value_of_encrypt.html
+The Moral Character of Cryptographic Work - Phil Rogaway 2015
+
+==== History ====
+Cryptowars US
+Enigma Machine
+Bletchly Park Codebreakers

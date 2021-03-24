@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:30:01-08:00
+
+====== 3D Printing ======
+
+==== Unsorted ====
+3D printed houses
+3D printed ventilator parts (covid news Italy 2020)
+Patent infringement / Design theft
+End of warehouse-economy
+Customization 
+Medical devices
+Manufacturing goods
+(portability) Uses in Humanitarian aid 
+Cheaper manufacturing / faster prototyping
+More innovation?
+Material limitations
+Single material
+Toxins in home (heated plastics, molten metal… )
+Safety training/ operation
+Operating device
+Ensuring safe designs & safety testing completed prints (eg. 3d printed helmet)
+Unsecured internet connections
+Weapons

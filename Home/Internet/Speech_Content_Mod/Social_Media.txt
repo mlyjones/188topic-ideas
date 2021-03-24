@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T17:44:33-08:00
+
+====== Social Media ======
+//It's kind of hard to describe social media, but in general - spaces where people interact and share content. This isn't just Facebook, Twitter, (online platforms) but radio talk shows, interactive video news , etc.//
+
+==== Data leakage or management ====
+//There's way more information out there on you than you might be comfortable with ...//
+* Third party data trolling (eg PleaseRobMe.com)
+	https://www.schneier.com/blog/archives/2019/03/judging_faceboo.html 
+* Security leakage: Soldiers
+	https://www.schneier.com/blog/archives/2019/02/attacking_soldi.html 
+* Other leaks
+	https://cybernews.com/security/social-media-app-leaking-data-of-172000-users/
+	https://www.npr.org/2018/09/27/652119109/uber-pays-148-million-over-year-long-cover-up-of-data-breach
+
+==== Filter bubbles ====
+Echo-chambers
+Malicious misinformation 
+	https://arstechnica.com/science/2020/05/fired-scientist-back-to-peddling-anti-vaxx-covid-19-conspiracy-theories/ 
+//What profiles do different companies/agencies/groups have for you and how does that reflect what information is presented to you?// 
+
+==== Social ====
+* FOMO
+* "highlights reel"
+* Self Esteem 
+* Surveillance (see "Personal Data" section on [[Internet:Surveillance]])
+
+==== Cyberbullying ====
+* Jon Ronson - “So you’ve been publicly shamed”
+
+==== Slacktivism ====
+Activism
+	https://arstechnica.com/tech-policy/2020/08/five-charged-with-felonies-for-tweeting-or-retweeting-a-cops-photo/
+
+==== Fake News ====
+Amplification of messages good and bad
+* Anti-vaxx and other messaging
+Ransomware spreading (jpeg recent cases...https://www.theregister.co.uk/2016/11/25/selfharming_jpg_hack_hole_may_be_key_to_lockys_fb_spread/ )
+
+==== Data misuse ====
+	https://www.observeit.com/blog/importance-data-misuse-prevention-and-detection/
+
+==== Phishing/scamming/trolling ====
+	https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email?language=en 
+	https://gimletmedia.com/episode/97-what-kind-of-idiot-gets-phished/
+	https://krebsonsecurity.com/2019/01/apple-phone-phishing-scams-getting-better/ 
+Ebay windows 365 keys 
+	https://krebsonsecurity.com/2019/01/dirt-cheap-legit-windows-software-pick-two/#more-46036 
+* Spearphishing vs phishing
+* Dropshipping

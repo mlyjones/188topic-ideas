@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:15:07-08:00
+
+====== Tech Work Culture ======
+Created Tuesday 02 March 2021
+
+https://www.wired.com/story/the-dirty-war-over-diversity-inside-google
+https://arstechnica.com/tech-policy/2018/06/judge-denies-class-action-status-to-women-in-microsoft-discrimination-case/ 
+https://arstechnica.com/tech-policy/2018/02/ex-google-engineer-i-was-fired-for-being-too-liberal/ 
+https://gizmodo.com/startups-in-china-are-hiring-women-as-programmer-motiv-1825529335
+https://arstechnica.com/tech-policy/2020/05/facebook-workers-get-remote-work-option-but-it-could-come-with-a-pay-cut/ 
+https://arstechnica.com/tech-policy/2021/03/google-tells-harassment-victims-to-take-medical-leave-report-finds/
+Start-up culture
+Long Hours
+Personnel recruitment and retention
+Discrimination
+Employee Treatment
+Microdosing culture
+Adderall / cocaine / marijuana / drugs
+Contract employment
+Incentives
+Shareholder accountability ($ over privacy/safety/security)
+https://www.theatlantic.com/technology/archive/2018/06/amazon-flex-workers/563444/
+AMAZON FLEX WORKERS / CONTRACT WORKERS/ WAREHOUSE/ PICKERS
+James Damore “Google’s Ideological Echo-chamber”
+http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/Googles-Ideological-Echo-Chamber 
+https://www.theguardian.com/technology/2017/nov/16/james-damore-google-memo-interview-autism-regrets 
+https://techcrunch.com/2018/06/14/google-releases-first-diversity-report-since-the-infamous-anti-diversity-memo/
+TechCongress (train government workers in tech)
+https://www.techcongress.io/ 
+
+==== finding a tech job ====
+https://www.bloomberg.com/news/audio/2017-04-03/how-tech-companies-stake-out-hackathons-for-future-stars 
+
+algorithmic bias

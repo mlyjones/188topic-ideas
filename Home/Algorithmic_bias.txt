@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-03T16:03:14-08:00
+
+====== Algorithmic bias ======
+
+==== Algorithmic bias ====
+	https://www.propublica.org/series/machine-bias
+	https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say 
+	https://www.brinknews.com/how-can-we-stop-algorithm-bias/
+	https://www.datascience.us/problem-biased-algorithms-prevent/
+	https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/open-ais-powerful-text-generating-tool-is-ready-for-business
+	https://arstechnica.com/tech-policy/2021/01/new-york-city-proposes-regulating-algorithms-used-in-hiring/
+
+==== Computer Vision ====
+	https://arstechnica.com/cars/2020/08/new-cars-can-stay-in-their-lane-but-might-not-stop-for-parked-cars/ 

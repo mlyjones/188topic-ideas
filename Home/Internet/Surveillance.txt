@@ -1,0 +1,170 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T18:12:05-08:00
+
+====== Surveillance ======
+
+==== Surveillance ====
+* ISPs as gatekeepers
+* Cookies
+* Spyware
+* Unsecured devices (eg webcams)
+* Metadata collection
+* Targeted advertising
+* Tracking Pixels
+* Government
+* Favicon
+	https://arstechnica.com/information-technology/2021/02/new-browser-tracking-hack-works-even-when-you-flush-caches-or-go-incognito/
+
+==== Targeted Advertising ====
+* Psychometrics
+	ApplyMagicSauce 
+	https://applymagicsauce.com/ 
+	Cambridge Analytica 
+	https://cambridgeanalytica.org/ 
+* Categorizing people / how targeting works
+	Antonio Martinez Garcia “Chaos Monkeys”
+	http://www.wnyc.org/story/chaos-monkey-facebook
+* Online shopping
+* Fake reviews
+	https://arstechnica.com/tech-policy/2021/02/fake-amazon-reviews-still-sold-in-bulk-it-costs-10900-for-1000-reviews/
+
+==== Personal Data ====
+* Metadata 
+	* Metadata and you
+	https://www.ucl.ac.uk/~ucfamus/papers/icwsm18.pdf 
+* Third party data consolidators (Familytreenow.com, pleaserobme.com, Spokeo.com)
+	https://recon.meddle.mobi/panoptispy/ 
+	https://www.bleepingcomputer.com/news/security/study-of-17-260-android-apps-doesnt-find-evidence-of-secret-spying/ 
+	https://www.schneier.com/blog/archives/2019/03/judging_faceboo.html 
+* //What you Know vs What you Are / how do you passcode your devices? (PIN vs Fingerprint..biometrics and what is legally protected from search)//
+	This has changed: Jan 2019
+	https://assets.documentcloud.org/documents/5684083/Judge-Says-Facial-Recognition-Unlocks-Not.pdf
+* Who owns your data? #data ownership
+	https://krebsonsecurity.com/2018/06/plant-your-flag-mark-your-territory/ 
+	https://arstechnica.com/tech-policy/2018/08/did-google-violate-users-privacy-when-it-secretly-kept-location-data/ 
+	https://arstechnica.com/tech-policy/2018/08/woman-my-iphone-was-seized-at-border-then-imaged-feds-now-must-delete-data/ 
+* Data as a toxic asset
+	https://www.schneier.com/essays/archives/2016/03/data_is_a_toxic_asse.html 
+* Facial Recognition
+	https://arstechnica.com/tech-policy/2020/03/vermont-sues-clearview-alleging-oppressive-unscrupulous-practices/ 
+	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/ 
+* Some laws related to privacy (HIPA, COPPA, GDPR, FERPA, etc)
+
+==== Government Surveillance ====
+* NSA
+	* Udaq
+	* Tempora
+* Stingray
+	https://arstechnica.com/tech-policy/2017/09/another-court-tells-police-want-to-use-a-stingray-get-a-warrant/ 
+* License plate readers
+* Public facing cameras
+* Drones (eg Project Angelfire : Falluga; programs in Juarez, Baltimore…)
+	https://www.wnycstudios.org/story/update-eye-sky/ 
+* Internet
+* Metadata aggregation
+* Wire tapping
+* Geolocation 
+
+==== Facial Recognition ====
+//There are many articles and resources on facial recognition as well as other computer vision based forms of personal identification//
+	https://www.vox.com/recode/2020/2/11/21131991/clearview-ai-facial-recognition-database-law-enforcement 
+	https://arstechnica.com/tech-policy/2020/03/vermont-sues-clearview-alleging-oppressive-unscrupulous-practices/ 
+	Hidden Brain “Losing Face”
+	https://www.npr.org/2017/07/04/535408034/some-people-are-great-at-recognizing-faces-others-not-so-much 
+	Perpetuallineup.org
+* Canada employing FR for travelers..?
+	http://www.cbc.ca/radio/quirks/one-minute-of-exercise-fukushima-robots-fail-dna-stores-everything-but-the-kitchen-sink-1.4019376/coming-soon-to-canadian-airports-facial-recognition-1.4019392 
+* As security for tech devices (fail!)
+	* Problems with contrast/twins/plastic surgery/ temporal changes(senescence)
+	https://www.nytimes.com/2018/07/26/technology/amazon-aclu-facial-recognition-congress.html 
+	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/ 
+* IBM stance 
+	https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/
+
+==== Police Surveillance ====
+	https://atlasofsurveillance.org/
+	https://builtin.com/robotics/police-robot-law-enforcement
+* PREDPOL (Predictive policing)
+* Use of social media 
+	https://arstechnica.com/tech-policy/2020/08/five-charged-with-felonies-for-tweeting-or-retweeting-a-cops-photo/
+* Use of databases - eg gedmatch
+* License Plate Readers
+* Facial Recognition
+* Biases
+
+==== Other tracking forms ====
+* Ultrasonic ads
+	https://www.wired.com/2016/11/block-ultrasonic-signals-didnt-know-tracking/
+* Cookies
+* Metadata
+	https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620
+* Google Maps (timeline)
+* FlexiSpy
+	https://gimletmedia.com/episode/96-the-secret-life-of-alex-goldman/ 
+* Facial Recognition in public spaces
+	http://www.cbc.ca/radio/quirks/one-minute-of-exercise-fukushima-robots-fail-dna-stores-everything-but-the-kitchen-sink-1.4019376/coming-soon-to-canadian-airports-facial-recognition-1.4019392 
+	https://www.vox.com/recode/2020/2/11/21131991/clearview-ai-facial-recognition-database-law-enforcement 
+	https://arstechnica.com/tech-policy/2020/03/vermont-sues-clearview-alleging-oppressive-unscrupulous-practices/ 
+	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/ 
+	http://www.wired.co.uk/article/anti-surveillance-clothing-adam-harvey 
+* Browser Fingerprinting
+* Workplace
+	https://www.locix.com/ 
+	https://datasociety.net/wp-content/uploads/2019/02/DS_Workplace_Monitoring_Surveillance_Explainer.pdf 
+* Eye-tracking technology 
+//sometimes used for autism diagnosis, “speech” (ALS/ Hawking..)// 
+
+==== Data Mining ====
+* Internet of Things
+* Stores: online/physical
+* Targeted ads
+* Cart purchases
+* Rewards Cards
+* Government
+	https://www.wsj.com/articles/u-s-government-contractor-embedded-software-in-apps-to-track-phones-11596808801
+* Facebook, Google, Etc
+	https://arstechnica.com/science/2020/03/how-facebook-is-trying-to-keep-ai-one-step-ahead-of-spammers-and-scammers/ 
+* Researchers (infomorphs/spam bots )
+	https://arstechnica.com/gadgets/2020/08/android-is-now-the-worlds-largest-earthquake-detection-network/
+* Twitter and tracking flu
+* Tech and covid tracking
+* Metadata assembly
+* Privacy
+* Cybersecurity
+* Encryption
+* Surveillance
+* Metadata identification
+	 https://www.ucl.ac.uk/~ucfamus/papers/icwsm18.pdf
+* Schneier: data as a toxic asset
+	https://www.schneier.com/essays/archives/2016/03/data_is_a_toxic_asse.html
+
+
+==== Alternative Camera Uses ====
+* Reconstruct audio from ambient environment (Chip bag example)
+	https://www.youtube.com/watch?v=FKXOucXB4a8
+	http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804 
+* Heartbeat monitoring
+	https://www.extremetech.com/computing/159309-mit-researchers-measure-your-pulse-detect-heart-abnormalities-with-smartphone-camera
+	https://github.com/thearn/webcam-pulse-detector
+	http://www.ignaciomellado.es/blog/Measuring-heart-rate-with-a-smartphone-camera
+* “Detecting Pulse From Head Motions in Video” https://www.youtube.com/watch?v=EhZXDgG9oSk
+* Physics - particle research eg Higgs-Boson
+* Surveillance
+* Anti-theft
+
+==== AntiSurveillance ====
+see subdirectory
+[[+AntiSurveillance]]
+
+====== Unsorted ======
+Death of the Google Cookie?
+	https://arstechnica.com/gadgets/2021/03/google-claims-it-will-stop-tracking-individual-users-for-ads/
+* "Privacy for Tigers" talk from USENIX conference about photograph geo-tagging enabling poachers 
+	https://www.usenix.org/presentation/anderson 
+* K(NO)W PRIVACY CONFERENCE INTERVIEW ED SNOWDEN
+	https://www.wnyc.org/story/edward-snowden-nsa-privacy/ 
+* You as metadata
+	 https://www.ucl.ac.uk/~ucfamus/papers/icwsm18.pdf
+* Taxing digital advertising revenue
+	https://arstechnica.com/tech-policy/2021/02/tech-groups-sue-maryland-to-block-new-digital-ad-tax-from-going-into-effect/ 

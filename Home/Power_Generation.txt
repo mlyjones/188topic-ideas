@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:37:32-08:00
+
+====== Power Generation ======
+
+==== Solar power ====
+Economic Impact / increasing $ inequality (?)
+http://outsideinradio.org/shows/ep28 
+Environmental Impact
+Product Lifecycle
+Animal bycatch 
+Birds, insects, etc. (burning)
+	https://www.engadget.com/2016/04/11/solar-cell-generates-power-from-raindrops/
+
+==== Wind power ====
+Environmental Impact
+Product Lifecycle
+Animal bycatch
+Migratory birds & bats
+
+==== Nuclear power ====
+Safety (Fukushima, Chernobyl, Three Mile Island.. Vs Germany, France ...)
+Waste
+Uranium Mining
+Navajo 
+	http://www.npr.org/sections/health-shots/2016/04/10/473547227/for-the-navajo-nation-uranium-minings-deadly-legacy-lingers 
+Environmental Impact
+
+==== Hydroelectric ====
+Environmental Impact
+Animal bycatch
+Wave power
+Environmental Impact
+
+==== Biofuels ====
+Environmental Impacts
+	http://www.cbc.ca/radio/quirks/digging-up-pharaohs-biofuels-in-the-sky-lawrence-krauss-on-why-we-re-here-1.4027618/flying-high-with-biofuels-1.4027645
+
+==== Batteries ====
+Battery improvement 
+	http://www.cbc.ca/radio/quirks/sleep-slippery-tongues-canada-s-new-role-model-scientist-1.3976226/pioneering-canadian-lithium-ion-battery-scientist-wins-herzberg-gold-medal-1.3976310 
+Lifecycle [production, distribution, waste, environmental impact]
+
+==== Coal ====
+Mining
+Silicosis & Black Lung / Worker Impacts
+Environmental Impact
+
+==== Natural Gas /Fracking ====
+(Science VS) 
+	https://gimletmedia.com/episode/fracking/ 
+Environmental Impact

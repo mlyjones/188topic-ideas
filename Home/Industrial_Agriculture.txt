@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:26:31-08:00
+
+====== Industrial Agriculture ======
+
+==== Industrialized food production ====
+Economy of scale
+Migrant Labor
+Child Labor
+Pesticides/herbicides
+CAFO
+Environmental impact
+Blights/dependencies
+
+==== Lab Grown meat ====
+Economy of scale
+Resources
+Tissue source
+
+==== Alt meats ====
+Beyond Burger, Impossible Burger, etc

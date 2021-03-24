@@ -1,0 +1,71 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-02T22:48:50-08:00
+
+====== Melissas Media recs ======
+
+//loosely organized//
+
+==== PODCASTS ====
+
+==== tech ====
+CYBER - Motherboard [hit or miss]
+ReplyAll – Gimlet Media (internet culture) [great!.. recent scandal though - Feb 2021]
+Exponential View with Azeem Azhar - HBR Presents (technology shaping society- interviews) [great]
+In Machines We Trust - MIT (Artificial Intelligence) [excellent]
+Wild Wild Tech - (interviews and tech exploration) [pretty good]
+A16z -  (Tech, Policy, Ethics)[hit or miss]
+Codebreaker – Marketplace (technology, ethics, ?)[they stopped new eps ~2017, but good]
+Decrypted – Bloomberg (technology, some ethics) [they stopped new eps, only 2 seasons, but good]
+The Internet of Things Podcast - (technology, IoT, some ethics) [I like some segments, skip others]
+Foundering - Gimlet (start-up culture) [great first season on WeWork]
+The Ars Technicast (interesting discussions surrounding tech)[I don’t listen to this anymore.. Just due to time/priority]
+IRL - Mozilla (Tech stuff) [good but I dropped it]
+Recode Decode - Vox Media (Tech, Policy, Ethics) [great show!][over]
+Wall Street Journal Tech News Briefing - WSJ (misc tech news)
+Marketplace Tech with Molly Wood - Marketplace (misc tech news)[I dropped]
+
+==== economics ====
+Planet Money – NPR (economics, & technology) [great show!]
+The Economist: Babbage - The Economist (science & tech news)[mostly good]
+50 Things That Made the Modern Economy – BBC (tech, history, economics) [Amazing]
+
+==== history ====
+Commandline Heroes- Red Hat (Computing history)[good]
+Backstory – (American History, sometimes related to technology) [great series][recently ended- amazing archives]
+Uncivil - (American History- Civil War)[omg so good! hiatus?]
+Revisionist History - (looking at recent and old events more in depth and skeptically) [great!]
+
+==== science ====
+More or Less: Behind the Stats - BBC (look behind statistics in the headlines) [great show!]
+The Infinite Monkey Cage BBC (science comedy) [great series, thing more biology based though, but they do have a good episode on ‘are we living in a simulation?’]
+Discovery – BBC (science, technology, education)
+DataFramed- Data Camp (Data Science)[hiatus?]
+TED Radio Hour – NPR (technology, education, design)[I dropped due to time]
+99% Invisible – Radiotopia (design, technology, science)[hit or miss]
+BBC Inside Science- BBC (Science news and interviews)
+Quirks and Quarks – CBC (science, sometimes technology, interviews) [good]
+Science VS – Gimlet Media (science, sometimes technology) [the host can be a bit annoying, but it’s a great premise]
+Outside/In – New Hampshire Public Radio (science, outdoors, sometimes tech)
+Hidden Brain – NPR (science, education, behavior)
+Sawbones – Maximum Fun (science, medicine, history, entertainment)
+Invisibilia – NPR (science, behavior, design)
+
+==== cybersecurity ====
+Malicious Life - (tales from cybersecurity) [great show!]
+The CyberWire - Pratt Street Media (cyber security news/some discussion)[I’m a regular listener]
+Darknet Diaries - (tales from the darknet) [great show!] 
+Hackable? - McAffee [~ok, more just entertaining. hiatus?]
+
+==== fun ====
+The Moth - WNYC (storytelling, real life)[I enjoy most of the episodes]
+Oh No! Ross and Carrie- Maximum Fun (they investigate fringe science) [I use as more background- not paying as much attention to]
+
+==== BOOKS ====
+You Look LIke a Thing and I Love You: How AI Works and How it's Making the World a Weirder Place - Janelle Shane
+Weapons of Math Destruction - Cathy O’Neil
+The Woman Who Smashed Codes - Fagone
+Chaos Monkeys - Martinez
+GRUNT - Mary Roach
+Chaos Engineering - Rosenthal, Hochstein, Blohowiak, Jones, and Basiri
+

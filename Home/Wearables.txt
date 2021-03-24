@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:30:52-08:00
+
+====== Wearables ======
+//Note: a lot of wearables have cross-over content with Internet of Things  (IoT) devices and surveillance//
+
+* Glasses
+	Google Glass
+* Clothing
+	LZR Racer 
+	http://www.wired.co.uk/article/anti-surveillance-clothing-adam-harvey 
+* Watches (smart watches)
+Biometric information
+FitBit/Pebble
+Heartrate, blood sugar, sleep, etc
+Data! - Strava mapping army bases with fitness trackers
+	https://www.washingtonpost.com/world/a-map-showing-the-users-of-fitness-devices-lets-the-world-see-where-us-soldiers-are-and-what-they-are-doing/2018/01/28/86915662-0441-11e8-aa61-f3391373867e_story.html?noredirect=on&utm_term=.c6f7ca0927cd 
+T-caps 
+	http://www.npr.org/sections/health-shots/2016/06/03/480173016/armys-smart-earplug-damps-explosive-noise-but-can-enhance-whispers 
+Jewelry
+	https://www.engadget.com/2016/06/02/visa-olympic-wearable/ 
+Clothes /makeup that disrupt camera 
+	https://petapixel.com/2015/02/25/watch-flashback-anti-paparazzi-clothing-ruin-flash-photographs/ 
+	https://cvdazzle.com/
+	https://www.theguardian.com/technology/2017/jan/04/anti-surveillance-clothing-facial-recognition-hyperface 

@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:32:39-08:00
+
+====== Drones ======
+//Note: a lot of drone content has cross-over content with surveillance//
+
+==== Surveillance ====
+* Gov
+* Stalkers
+* Neighbors
+* Thieves
+	https://www.wnycstudios.org/story/update-eye-sky/ 
+* outdated LAWS / Regulations for consumer and industrial drones
+
+==== War ====
+Boots on the Ground 
+Drone operators
+Psychology
+Geophysical location of pilot
+ID- official government sanctioned drone act or ‘terrorism’ acts
+Autonomy
+
+==== Wildlife ====
+Disturbance (territory defense/ prey items ) 
+	http://www.slate.com/blogs/wild_things/2013/12/05/amazon_delivery_drone_problems_birds_will_attack.html 
+	http://www.popsci.com/eagles-attack-drones-at-police-command 
+Monitoring 
+	http://www.cdnsciencepub.com/blog/drones-and-wildlife-research-a-new-paradigm-takes-off.aspx 
+	http://www.economist.com/news/middle-east-and-africa/21692823-saving-africas-rhinos-struggle-save-rhino-dogs-still-beat-drones 
+
+==== Other uses ====
+Postal/delivery 
+Amazon (drone, last-mile problem, etc)
+Lab Samples 
+	http://www.theverge.com/2017/3/31/15135036/drone-hospital-laboratory-delivery-swiss-post-lugano 
+Chipotle 
+	https://www.bloomberg.com/news/articles/2016-09-08/burrito-by-drone-coming-to-campus-in-test-of-alphabet-s-delivery 
+
+==== Anti-drone tech ====
+...Black Sage, training eagles....
+Arms-race (3-dimensional problem/Marketplace)
+	https://www.marketplace.org/tags/drones 
+

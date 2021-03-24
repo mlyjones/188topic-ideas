@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T18:44:36-08:00
+
+====== Gig Economy ======
+Created Tuesday 02 March 2021
+
+//good and bad ...//
+
+==== Sharing Economy ====
+Uber/ Lyft
+* Employee treatment 
+* Administration/workplace culture --- Travis Kalanick
+* Customer treatment
+* Algorithm practices
+* Flexible rates
+* Service guarantees
+* Environmental impact
+* Competitive markets
+* Driver treatment
+* Employees vs contractors
+* Payments
+* Requirements
+* Vomit fraud 
+	https://www.chicagotribune.com/business/ct-biz-uber-vomit-fraud-20180724-story.html
+* Tax fraud
+	https://www.caltaxadviser.com/blog/2019/07/uber-is-being-investigated-for-tax-fraud/
+AirBnB
+* Discrimination
+	https://www.bloomberg.com/news/articles/2015-12-10/study-finds-racial-discrimination-by-airbnb-hosts
+	https://www.nytimes.com/2016/08/23/opinion/how-airbnb-can-fight-racial-discrimination.html
+	https://www.nytimes.com/2016/11/02/technology/federal-judge-blocks-racial-discrimination-suit-against-airbnb.html?_r=0  
+* Employee/customer treatment 
+* Broadscale impact of “gig economy” , housing markets and gentrification
+UberEats, DoorDash
+* Wage theft
+Amazon Flex workers
+	https://www.theatlantic.com/technology/archive/2018/06/amazon-flex-workers/563444/
+
+==== Unsorted ====
+//Was it Susan// //Fowler that was a whistleblower at Uber//? 

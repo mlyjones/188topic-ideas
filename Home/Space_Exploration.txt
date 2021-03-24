@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:37:01-08:00
+
+====== Space Exploration ======
+Debris/Junk
+	https://en.wikipedia.org/wiki/Space_debris
+Laws regarding contamination/extraterrestrial interactions
+International agreements
+Logistics
+Biological waste
+	http://www.cbc.ca/radio/quirks/ideal-setting-for-alien-life-fort-mac-rebounds-and-more-1.3993931/somebody-won-nasa-s-spacesuit-toilet-contest-1.3994054 
+Safety
+Animal testing
+	https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/
+

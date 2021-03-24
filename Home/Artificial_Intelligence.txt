@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:17:37-08:00
+
+====== Artificial Intelligence ======
+//Always specify if discussing weak or strong AI//
+
+==== Artificial intelligence /Augmented Intelligence automation ====
+* Machine Learning - ability/feasibility-
+* AI Rights
+* Intelligence threshold? (toaster vs robot dog...)
+* Production issues: material sources/extraction, labor
+* AI Design (developers being aware of bias/exclusion-inclusion, control..)
+	https://a16z.com/2020/01/16/controlling-ai-human-compatible/ 
+* Sex Robots
+	https://www.npr.org/2020/04/13/833331551/sex-machines-love-in-the-age-of-robots 
+* Cybersecurity defense and offense
+* Friends
+	https://www.nytimes.com/2020/06/16/technology/chatbots-quarantine-coronavirus.html
+
+==== Unsorted ====
+	https://arstechnica.com/information-technology/2017/05/an-ai-invented-a-bunch-of-new-paint-colors-that-are-hilariously-wrong/
+	aiweirdness.com
+	https://thenextweb.com/insights/2018/01/22/i-trained-an-ai-to-copy-my-voice-and-scared-myself-silly/
+BOTUS - planet money (AI stock market bot responding to Trump Tweets)
+	https://ganbreeder.app/ 
+Deepfakes [[Home:Deepfakes]]
+	https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/open-ais-powerful-text-generating-tool-is-ready-for-business
+Music
+	https://arstechnica.com/gaming/2020/09/turning-code-into-music-anagrams-open-source-marxism-and-vr-raves/
+Misc
+	https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural
+	https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/
+Uses (medical, science<birds/topography/anthropology>, law, military, etc)
+Machine Learning to ID likely lead pipes in Flint, MI
+	https://www.theatlantic.com/technology/archive/2019/01/how-machine-learning-found-flints-lead-pipes/578692/ 
+	http://www.terrapattern.com/ 
+
+==== Workplace Automation ====
+[[+Workplace_Automation]]
+
+==== Surveillance ====
+//Many args overlap with the internet based surveillance// [[(Internet:Surveillance]] )

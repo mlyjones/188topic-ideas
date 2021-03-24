@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T19:13:00-08:00
+
+====== Security ======
+//There are many levels of// //internet -related security issues. This is simply a sampling of ideas related to this topic.//
+
+==== Personal Accounts ====
+haveIbeenPwned? 
+	https://haveibeenpwned.com/
+Password managers
+Phishing, SpearPhishing, Social Engineering    
+Hacking humans 
+	https://thecyberwire.com/podcasts/hacking-humans.html 
+Data /Third party data handling
+Third party data leaks
+	https://krebsonsecurity.com/2020/03/the-case-for-limiting-your-browser-extensions/ 
+Social activism
+	https://arstechnica.com/staff/2017/06/its-time-to-teach-people-online-self-defense/
+
+==== Enterprise Accounts ====
+Equifax breach
+Yahoo Breach
+Safety certificates / https
+Symantec Dec 2016 issuing certs incorrectly== compromising web security…-reprimanded by Google
+Phishing, SpearPhishing, Social Engineering    
+
+==== Exploits ====
+* 'Recent' incidents
+WannaCry
+Stuxnet
+Blueborne
+Heartbleed exploit 
+	http://heartbleed.com/ 
+* Hacking air-gapped devices 
+	https://www.wired.com/story/air-gap-researcher-mordechai-guri 
+* Anti-virus
+	https://arstechnica.com/security/2017/06/latest-high-severity-flaw-in-windows-defender-highlights-the-dark-side-of-av/
+* Smart lock with vulnerabilities
+	 https://www.schneier.com/blog/archives/2018/06/ridiculously_in.html 
+
+==== Botnets and Ransomware ====
+see subpage 
++[[+Ransomware and Botnets|Ransomware_Botnets]]
+
+==== Internet_of_Things ====
+see subpage
+[[+Internet_of_Things]]
+
+==== Encryption ====
+see page [[Home:Encryption]]
+* Apple vs FBI
+
+==== Penetration testing ====
+* Bug bounties
+* White hat hackers
+
+==== Social hacktivism ====
+* Wikleaks, Anonymous ...
+
+==== Unsorted ====
+Phishing/scamming/trolling
+	https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email?language=en 
+Fake ‘official’ webpages
+	https://www.gimletmedia.com/reply-all/76-lost-in-a-cab 
+Typosquatting

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T17:31:01-08:00
+
+====== Net Neutrality ======
+//Lots of material to examine for this topic, but I didn't pull together a big list yet - MJ//
+
+==== Net neutrality ====
+	https://arstechnica.com/information-technology/2020/05/worst-case-scenario-why-the-cable-lobby-is-scared-of-becoming-a-utility/ 
+* Data caps & net neutrality
+	https://arstechnica.com/tag/net-neutrality-day/ 
+	https://arstechnica.com/information-technology/2020/05/worst-case-scenario-why-the-cable-lobby-is-scared-of-becoming-a-utility/ 
+* Other accessibility issues 
+	https://arstechnica.com/information-technology/2017/01/when-home-internet-service-costs-5000-or-even-15000/ 
+

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:24:58-08:00
+
+====== Gaming ======
+//Some Gaming topics fall under the broader "Internet" category. Check there for more on this topic.//
+
+==== Augmented reality/virtual reality ====
+Military training
+Medical training
+Commercial uses (virtual meeting, data visualization, etc)
+Online -in game interactions
+REC Room issues
+	https://arstechnica.com/business/2017/01/welcome-to-world-of-trolling-in-virtual-reality/?comments=1&post=32693129&mode=quote 
+Personal use
+Room Scale Safety
+Product Design
+Ads    
+	 https://arstechnica.com/gaming/2017/03/vr-becomes-more-like-the-real-world-with-htcs-integrated-advertising/
+

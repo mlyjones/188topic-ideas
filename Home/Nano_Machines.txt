@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:23:07-08:00
+
+====== Nano Machines ======
+
+==== General ====
+Environmental impact
+Health Impacts
+Surveillance
+
+==== Unsorted ====
+Nanocar Races
+Molecular machines 
+	http://www.cbc.ca/radio/quirks/quirks-quarks-for-october-8-2016-1.3794317/nobel-prize-in-chemistry-for-molecular-machines-1.3794397
+	https://phys.org/news/2016-04-microbots-polluted.html  nano-machines for environmental cleanup

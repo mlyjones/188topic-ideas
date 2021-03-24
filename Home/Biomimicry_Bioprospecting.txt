@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T22:18:32-08:00
+
+====== Biomimicry Bioprospecting ======
+//Biomimicry / Bioprospecting (look for nature inspired products)// 
+
+Ecological theft
+Patenting natural systems /products (?)
+15 technologies inspired by plants and animals 
+	https://www.youtube.com/watch?v=_5i_QJyL3mI 
+Indigenious Intellectual Property Theft 
+	https://play.google.com/store/books/details?id=T7ckCwAAQBAJ
+
+=== Soft Robots ===
+	https://arstechnica.com/science/2016/08/meet-the-octobot-a-fully-autonomous-soft-bodied-robot/
+	https://arstechnica.com/science/2021/03/researchers-build-a-swimming-robot-that-works-in-the-mariana-trench/

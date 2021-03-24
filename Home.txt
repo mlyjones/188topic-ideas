@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-06-10T22:09:38-07:00
+
+====== Home ======
+//Topic ideas for ECS188; by no means is this complete or comprehensive, but there are a lot of different topics to explore. //
+//I'm fighting with Zim to try to make the formatting better. It keeps auto-formatting some things to have far more spacing and weird layouts. //
+
+[[+3D_Printing]]
+[[+Algorithmic_bias]]
+[[+Artificial_Intelligence]]
+[[+Autonomous_robotics]]
+[[+Blockchain]]
+[[+Biomed_Bioengineering]]
+[[+Biomimicry_Bioprospecting]]
+[[+Cryptocurrencies]]
+[[+Deepfakes]]
+[[+Drones]]
+[[+Encryption]]
+[[+Environmental_Health]]
+[[+EULA_and_laws]]
+[[+Gaming]]
+[[+]][[+Genotyping_and_Design|Genotyping_and_Design]]
+[[+Industrial_Agriculture]]
+[[+Internet]]
+[[+Misc]]
+[[+Nano_Machines]]
+[[+Patents]]
+[[+Power_Generation]]
+[[+Space_Exploration]]
+[[+Surveillance]]
+[[+Tech_Philanthropy]]
+[[+Tech_Work_Culture]]
+[[+Wearables]]
+[[+Melissas_Media_recs]]

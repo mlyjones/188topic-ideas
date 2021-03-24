@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-02T21:13:00-08:00
+
+====== Cryptocurrencies ======
+Bitcoin, Ethereum, Dogecoin, etc… digital currencies. Zcash & attempt to obscure transactions
+
+==== Risks ====
+	https://www1.icsi.berkeley.edu/~nweaver/papers/cryptorisks.pdf 
+Instability in value
+Wallet security 
+(*Mt Gox*, coincheck … )
+Scams
+
+==== Energy usage ====
+Mining
+Accessibility //who can mine//? 
+	Timing of adoption / harder to mine as time goes on (early adopters benefit)
+Wisconsin, Ocean Falls Canada
+	https://www.bloomberg.com/news/audio/2018-08-31/a-canadian-ghost-town-takes-a-gamble-on-bitcoin 
+	https://cryptonews.com.au/story/canadas-ocean-falls-turns-to-bitcoin-mining-to-breath-life-into-rural-town-44568 
+	https://business.financialpost.com/technology/blockchain/chinese-bitcoin-miners-eye-sites-in-energy-rich-canada
+
+
+==== Malicious mining “crypto-jacking” ====
+	https://www.schneier.com/blog/archives/2018/02/water_utility_i.html 
+	https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/ 
+	Monero 
+Impacts (societal)
+	https://www.theverge.com/2018/4/3/17192886/bitcoin-cryptocurrency-south-korea-millennials 
+	https://www.bloomberg.com/news/audio/2018-05-27/a-venezuelan-bitcoin-miner-on-why-he-had-to-flee-podcast 
+	https://www.bloomberg.com/news/audio/2018-04-10/the-world-is-cracking-down-on-bitcoin-except-japan 
+Scams
+	https://www.npr.org/2020/02/14/806137130/episode-972-the-cryptoqueen 
+	https://isthiscoinascam.com/
+
+
+==== Unsorted ====
+botnets
+	https://www.zdnet.com/article/this-botnet-is-abusing-bitcoin-blockchains-to-stay-in-the-shadows/
+	https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
+ATMs 
+	https://www.weusecoins.com/en/bitcoin-atms/ 
+DNA storage
+	https://www.ebi.ac.uk/about/news/press-releases/belgian-phd-student-decodes-dna-wins-bitcoin
+	https://news.bitcoin.com/dna-of-things-technology-can-store-bitcoin-passwords-in-everyday-objects/ 
+Taxes
+	https://www.latimes.com/business/story/2019-07-26/irs-warns-cryptocurrency-owners-of-back-taxes 
+Chainanalysis - de-anonymize wallets
+	https://www.chainalysis.com/ 
+Tech shortages
+	https://hexus.net/tech/news/laptop/147395-crypto-miners-bulk-buying-rtx-30-laptops-china/
