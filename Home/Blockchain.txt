@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-18T20:34:53-07:00
 
 ====== Blockchain ======
@@ -7,7 +7,6 @@ Creation-Date: 2021-03-18T20:34:53-07:00
 ==== Consequences of design ====
 	https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 	https://www.zdnet.com/article/this-botnet-is-abusing-bitcoin-blockchains-to-stay-in-the-shadows/
-
 
 ==== Cryptocurrencies ====
 See [[Internet:Cryptocurrencies]]

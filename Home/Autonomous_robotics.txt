@@ -1,23 +1,25 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:40:26-08:00
 
 ====== Autonomous robotics ======
 
 ==== Cars, Planes, Trains, Drones ====
 or whatever https://futurism.com/rangefinder-can-work-outdoors-needs-smartphone-cheap-laser
-https://arstechnica.com/cars/2018/08/how-self-driving-cars-could-use-mine-detecting-tech-to-see-the-road/ 
-https://www.citylab.com/transportation/2018/03/first-pedestrian-killed-by-a-self-driving-car-uber/555956/ 
-https://today.duke.edu/2019/06/car-wrecks-ahead-world-artificial-intelligence-and-transportation
-https://news.itu.int/opportunities-and-challenges-of-deploying-autonomous-delivery-vehicles-missy-cummings/
+	https://arstechnica.com/cars/2018/08/how-self-driving-cars-could-use-mine-detecting-tech-to-see-the-road/ 
+	https://www.citylab.com/transportation/2018/03/first-pedestrian-killed-by-a-self-driving-car-uber/555956/ 
+	https://today.duke.edu/2019/06/car-wrecks-ahead-world-artificial-intelligence-and-transportation
+	https://news.itu.int/opportunities-and-challenges-of-deploying-autonomous-delivery-vehicles-missy-cummings/
 Safety
+	https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/
 Security
-https://arstechnica.com/cars/2020/03/hackers-can-clone-millions-of-toyota-hyundai-and-kia-keys/ 
+	https://arstechnica.com/cars/2020/03/hackers-can-clone-millions-of-toyota-hyundai-and-kia-keys/ 
 Programming/ design
-https://arstechnica.com/cars/2017/06/waymo-hires-avis-to-look-after-its-autonomous-cars-in-arizona/ 
-https://arstechnica.com/cars/2020/08/new-cars-can-stay-in-their-lane-but-might-not-stop-for-parked-cars/   #bias #radar
+	https://arstechnica.com/cars/2017/06/waymo-hires-avis-to-look-after-its-autonomous-cars-in-arizona/ 
+	https://arstechnica.com/cars/2020/08/new-cars-can-stay-in-their-lane-but-might-not-stop-for-parked-cars/   #bias #radar
 Recode Decode: Aicha Evans and Jesse Levinson: Self-driving taxis will be here in 2021
-https://megaphone.link/VMP2437835192 
+	https://megaphone.link/VMP2437835192 
 
 ==== Unsorted ====
-https://www.stitcher.com/show/exponential-view/episode/engineering-a-driverless-future-82098992
+	https://www.stitcher.com/show/exponential-view/episode/engineering-a-driverless-future-82098992
+

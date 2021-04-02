@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:30:01-08:00
 
 ====== 3D Printing ======
@@ -23,3 +23,7 @@ Operating device
 Ensuring safe designs & safety testing completed prints (eg. 3d printed helmet)
 Unsecured internet connections
 Weapons
+
+==== unsorted ====
+	https://arstechnica.com/cars/2021/03/ford-and-hp-recycle-3d-printer-waste-to-make-truck-parts/
+
