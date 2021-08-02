@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:37:32-08:00
 
 ====== Power Generation ======
@@ -41,6 +41,8 @@ Environmental Impacts
 Battery improvement 
 	http://www.cbc.ca/radio/quirks/sleep-slippery-tongues-canada-s-new-role-model-scientist-1.3976226/pioneering-canadian-lithium-ion-battery-scientist-wins-herzberg-gold-medal-1.3976310 
 Lifecycle [production, distribution, waste, environmental impact]
+Lithium (mining)
+	https://www.vice.com/en/article/epn5j7/an-incredibly-toxic-lake-will-become-one-of-the-uss-first-lithium-mines
 
 ==== Coal ====
 Mining

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T17:36:35-08:00
 
 ====== Speech Content Mod ======
@@ -7,7 +7,7 @@ Creation-Date: 2021-03-02T17:36:35-08:00
 ==== Free Speech ====
 	https://arstechnica.com/tech-policy/2020/02/first-amendment-doesnt-apply-on-youtube-judges-reject-prageru-lawsuit/ 
 	https://www.npr.org/2018/09/06/645352618/twitter-bans-alex-jones-and-infowars-cites-abusive-behavior 
-* Gab, Parler, etc
+	https://arstechnica.com/tech-policy/2021/05/florida-regulates-facebook-and-twitter-compares-big-tech-to-communist-rule/
 * Facebook and the Rohingya Genocide
 
 ==== Content Moderation ====
@@ -22,9 +22,12 @@ Creation-Date: 2021-03-02T17:36:35-08:00
 	https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html 
 * Fake official pages
 	https://gimletmedia.com/episode/76-lost-in-a-cab/
+* Parler, Gab, and more
+	https://arstechnica.com/tech-policy/2021/04/parler-re-platformed-as-apple-allows-social-network-back-into-app-store/
 
 ==== Section 230 ====
 	https://arstechnica.com/tech-policy/2020/06/section-230-the-internet-law-politicians-love-to-hate-explained/
+	https://arstechnica.com/tech-policy/2021/07/new-bill-strips-facebook-twitter-of-section-230-immunity-for-spreading-vaccine-falsehoods/
 
 ==== Fake News ====
 * gov sponsored

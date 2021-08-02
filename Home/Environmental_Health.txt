@@ -1,35 +1,37 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:24:08-08:00
 
 ====== Environmental Health ======
 
 ==== Environmental impacts ====
-Pollution / Environmental Health / OSHA
-Light, noise, etc.
-Greenhouse gasses
-Manufacturing byproducts
-PCBs, heavy metals, Dioxin etc. 
-E-waste & E-waste recycling
+* Pollution / Environmental Health / OSHA
+* Light, noise, etc.
+* Greenhouse gasses
+* Manufacturing byproducts
+* PCBs, heavy metals, Dioxin etc. 
+* E-waste & E-waste recycling
 
 ==== Human impacts ====
-Child labor / unsafe exposure to chems
-Resource extraction  (historical example: mercury from gold mining / conflict minerals DRC ...)
-Workplace safety (varies by industry) (many topics can be found on The Pump Handle blog)
-Ergonomics
+* Child labor / unsafe exposure to chems
+* Resource extraction  (historical example: mercury from gold mining / conflict minerals DRC ...)
+* Workplace safety (varies by industry) (many topics can be found on The Pump Handle blog)
+* Ergonomics
 
 ==== Rare Earth Minerals ====
-Extraction / Labor
-Environmental Impact
-Societal Impacts
+* Extraction / Labor
+* Environmental Impact
+* Societal Impacts
+* Misc
+	https://www.vice.com/en/article/epn5j7/an-incredibly-toxic-lake-will-become-one-of-the-uss-first-lithium-mines
 
 ==== Product lifecycles ====
-Component Extraction, Product Design & Production, Usage, Waste
+* Component Extraction, Product Design & Production, Usage, Waste
 	https://arstechnica.com/gadgets/2017/03/samsungs-note-7-recycling-plan-includes-reselling-the-device-in-some-countries/ 
 	http://apps.npr.org/tshirt/#/title
 	https://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch 
 
 ==== Cleanup robots ====
-Fukushima 
+* Fukushima 
 	http://www.cbc.ca/radio/quirks/one-minute-of-exercise-fukushima-robots-fail-dna-stores-everything-but-the-kitchen-sink-1.4019376/robots-are-piling-up-inside-fukushima-s-robot-graveyard-1.4019409
 

@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T18:12:05-08:00
 
 ====== Surveillance ======
@@ -37,6 +37,7 @@ Creation-Date: 2021-03-02T18:12:05-08:00
 	https://recon.meddle.mobi/panoptispy/ 
 	https://www.bleepingcomputer.com/news/security/study-of-17-260-android-apps-doesnt-find-evidence-of-secret-spying/ 
 	https://www.schneier.com/blog/archives/2019/03/judging_faceboo.html 
+	https://www.fastpeoplesearch.com/
 * //What you Know vs What you Are / how do you passcode your devices? (PIN vs Fingerprint..biometrics and what is legally protected from search)//
 	This has changed: Jan 2019
 	https://assets.documentcloud.org/documents/5684083/Judge-Says-Facial-Recognition-Unlocks-Not.pdf
@@ -46,7 +47,7 @@ Creation-Date: 2021-03-02T18:12:05-08:00
 	https://arstechnica.com/tech-policy/2018/08/woman-my-iphone-was-seized-at-border-then-imaged-feds-now-must-delete-data/ 
 * Data as a toxic asset
 	https://www.schneier.com/essays/archives/2016/03/data_is_a_toxic_asse.html 
-* Facial Recognition
+* Facial Recognition (also see dedicated Facial Recognition section below)
 	https://arstechnica.com/tech-policy/2020/03/vermont-sues-clearview-alleging-oppressive-unscrupulous-practices/ 
 	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/ 
 * Some laws related to privacy (HIPA, COPPA, GDPR, FERPA, etc)
@@ -78,9 +79,18 @@ Creation-Date: 2021-03-02T18:12:05-08:00
 * As security for tech devices (fail!)
 	* Problems with contrast/twins/plastic surgery/ temporal changes(senescence)
 	https://www.nytimes.com/2018/07/26/technology/amazon-aclu-facial-recognition-congress.html 
-	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/ 
+	* poisoning attacks
+	https://www.vice.com/en/article/m7e9qv/hackers-fool-facial-recognition-into-thinking-im-mark-zuckerberg 
 * IBM stance 
 	https://arstechnica.com/tech-policy/2020/06/ibm-quits-facial-recognition-calls-for-federal-regulation-of-police-use/
+* PimEyes (search engine)
+	https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html
+* poor usage applications
+	https://www.theverge.com/2021/6/19/22541427/facial-recognition-software-verify-unemployment-benefits-id-me
+* in general — facial recognition and law enforcement
+	* Cities and bans (eg. San Francisco)
+	* Other 
+	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/
 
 ==== Police Surveillance ====
 	https://atlasofsurveillance.org/
@@ -92,6 +102,9 @@ Creation-Date: 2021-03-02T18:12:05-08:00
 * License Plate Readers
 * Facial Recognition
 * Biases
+* Clearview AI
+* other
+	https://arstechnica.com/tech-policy/2020/06/senator-wants-to-know-if-police-are-using-clearview-to-id-protesters/
 
 ==== Other tracking forms ====
 * Ultrasonic ads
@@ -168,3 +181,12 @@ Death of the Google Cookie?
 	 https://www.ucl.ac.uk/~ucfamus/papers/icwsm18.pdf
 * Taxing digital advertising revenue
 	https://arstechnica.com/tech-policy/2021/02/tech-groups-sue-maryland-to-block-new-digital-ad-tax-from-going-into-effect/ 
+* wifi devices as sensors
+	https://www.theregister.com/2021/03/31/wifi_devices_monitoring/
+* why care about privacy?
+	https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism
+* privacy theater
+	https://www.wired.com/story/google-floc-age-privacy-theater/
+* informational advertisements
+	https://twitter.com/sdw/status/1389661120500174856?s=19
+	

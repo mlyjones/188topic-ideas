@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:27:18-08:00
 
 ====== Biomed Bioengineering ======
@@ -54,5 +54,7 @@ Alternatives (eg. bacteriophage)
 ==== Brain to Brain Interfaces ====
 //Controlling computers with brains//
 	http://www.cbc.ca/radio/quirks/don-t-pee-in-the-pool-bees-play-ball-and-lucid-dreaming-1.4008562/can-we-control-computers-with-our-dreams-1.4008629 
+	https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/
 “Mind reading” Discovery BBC 
 	http://www.bbc.co.uk/programmes/p04h45x8 
+	

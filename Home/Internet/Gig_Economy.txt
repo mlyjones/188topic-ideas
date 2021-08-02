@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T18:44:36-08:00
 
 ====== Gig Economy ======
@@ -39,3 +39,6 @@ Amazon Flex workers
 
 ==== Unsorted ====
 //Was it Susan// //Fowler that was a whistleblower at Uber//? 
+	https://www.cnbc.com/2021/04/29/uber-lyft-doordash-stocks-fall-on-concern-over-gig-worker-regulation.html 
+	https://www.reuters.com/world/us/exclusive-us-labor-secretary-says-most-gig-workers-should-be-classified-2021-04-29/
+	https://www.washingtonpost.com/technology/2021/06/09/uber-lyft-drivers-price-hike/

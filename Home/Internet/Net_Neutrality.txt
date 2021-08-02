@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T17:31:01-08:00
 
 ====== Net Neutrality ======
@@ -13,3 +13,6 @@ Creation-Date: 2021-03-02T17:31:01-08:00
 * Other accessibility issues 
 	https://arstechnica.com/information-technology/2017/01/when-home-internet-service-costs-5000-or-even-15000/ 
 
+===== unsorted =====
+	https://www.wired.com/story/isps-funded-85-million-fake-comments-opposing-net-neutrality/
+	https://arstechnica.com/tech-policy/2021/05/verizon-uses-fcc-pandemic-subsidy-to-upsell-customers-to-pricier-plans/

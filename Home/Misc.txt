@@ -4,6 +4,9 @@ Creation-Date: 2021-03-02T22:25:18-08:00
 
 ====== Misc ======
 
+(backdoors)
+https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor
+
 ==== Images/Ads as attack vectors ====
 	https://www.bleepingcomputer.com/news/security/twitter-images-can-be-abused-to-hide-zip-mp3-files-heres-how/
 
@@ -68,5 +71,7 @@ DETECTING CHEMICAL SIGNALING / SOCIAL NETWORKS IN ANIMALS
 ==== Chaos Engineering ====
 	https://www.oreilly.com/library/view/chaos-engineering/9781491988459/
 	Precision Chaos -2017- Netflix https://www.youtube.com/watch?v=C11LNUEaHuo
-	
+
+==== NFTs ====
+	https://www.theverge.com/2021/3/15/22332455/elon-musk-nft-song-sale-crypto-bitcoin-music-video-tesla-technoking
 

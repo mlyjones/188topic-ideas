@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T19:48:49-08:00
 
 ====== Ransomware and Botnets ======
@@ -26,6 +26,9 @@ WannaMine
 WannaCry
 SamSam
 	https://www.wired.com/story/atlanta-spent-26m-recover-from-ransomware-scare/
+Colonial Pipeline Hack
+	https://www.wired.com/story/colonial-pipeline-ransomware-attack/
+
 
 ==== Unsorted ====
 Botnets and blockchain

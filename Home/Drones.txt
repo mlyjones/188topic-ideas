@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:32:39-08:00
 
 ====== Drones ======
@@ -25,6 +25,7 @@ Autonomy
 Disturbance (territory defense/ prey items ) 
 	http://www.slate.com/blogs/wild_things/2013/12/05/amazon_delivery_drone_problems_birds_will_attack.html 
 	http://www.popsci.com/eagles-attack-drones-at-police-command 
+	https://phys.org/news/2021-06-seabirds-drone-reserve-scientists-future.html
 Monitoring 
 	http://www.cdnsciencepub.com/blog/drones-and-wildlife-research-a-new-paradigm-takes-off.aspx 
 	http://www.economist.com/news/middle-east-and-africa/21692823-saving-africas-rhinos-struggle-save-rhino-dogs-still-beat-drones 

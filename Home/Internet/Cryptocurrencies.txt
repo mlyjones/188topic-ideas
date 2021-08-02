@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:13:00-08:00
 
 ====== Cryptocurrencies ======
@@ -13,6 +13,7 @@ Wallet security
 Scams
 
 ==== Energy usage ====
+	https://arstechnica.com/tech-policy/2021/07/bitcoin-power-plant-is-turning-a-12000-year-old-glacial-lake-into-a-hot-tub/
 Mining
 Accessibility //who can mine//? 
 	Timing of adoption / harder to mine as time goes on (early adopters benefit)
@@ -21,21 +22,24 @@ Wisconsin, Ocean Falls Canada
 	https://cryptonews.com.au/story/canadas-ocean-falls-turns-to-bitcoin-mining-to-breath-life-into-rural-town-44568 
 	https://business.financialpost.com/technology/blockchain/chinese-bitcoin-miners-eye-sites-in-energy-rich-canada
 
-
 ==== Malicious mining “crypto-jacking” ====
 	https://www.schneier.com/blog/archives/2018/02/water_utility_i.html 
 	https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/ 
 	Monero 
-Impacts (societal)
+
+==== Impacts (societal) ====
 	https://www.theverge.com/2018/4/3/17192886/bitcoin-cryptocurrency-south-korea-millennials 
 	https://www.bloomberg.com/news/audio/2018-05-27/a-venezuelan-bitcoin-miner-on-why-he-had-to-flee-podcast 
 	https://www.bloomberg.com/news/audio/2018-04-10/the-world-is-cracking-down-on-bitcoin-except-japan 
+	https://www.wired.com/story/monero-privacy/
 Scams
 	https://www.npr.org/2020/02/14/806137130/episode-972-the-cryptoqueen 
 	https://isthiscoinascam.com/
 
-
 ==== Unsorted ====
+	https://www.cnbc.com/2021/06/15/chinas-bitcoin-miner-exodus-.html
+	https://arstechnica.com/tech-policy/2021/05/cryptocurrency-bubble-is-bursting-wiping-out-600-billion/
+	https://arstechnica.com/tech-policy/2021/07/bitcoin-power-plant-is-turning-a-12000-year-old-glacial-lake-into-a-hot-tub/
 botnets
 	https://www.zdnet.com/article/this-botnet-is-abusing-bitcoin-blockchains-to-stay-in-the-shadows/
 	https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
@@ -50,3 +54,10 @@ Chainanalysis - de-anonymize wallets
 	https://www.chainalysis.com/ 
 Tech shortages
 	https://hexus.net/tech/news/laptop/147395-crypto-miners-bulk-buying-rtx-30-laptops-china/
+Blockchain
+	https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html
+Stock surges with 'blockchain' in name — juice companies 
+	https://www.theverge.com/2017/12/21/16805598/companies-blockchain-tech-cryptocurrency-tea
+
+	
+	
