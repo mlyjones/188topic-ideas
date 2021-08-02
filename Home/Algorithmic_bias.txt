@@ -15,7 +15,9 @@ Creation-Date: 2021-03-03T16:03:14-08:00
 	https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/
 
 ==== Computer Vision ====
-	https://arstechnica.com/cars/2020/08/new-cars-can-stay-in-their-lane-but-might-not-stop-for-parked-cars/ 
+	https://arstechnica.com/cars/2020/08/new-cars-can-stay-in-their-lane-but-might-not-stop-for-parked-cars/
 
 ==== unsorted ====
 	https://www.theguardian.com/commentisfree/2018/sep/23/how-youtube-takes-you-to-extremes-when-it-comes-to-major-news-events
+	https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/
+

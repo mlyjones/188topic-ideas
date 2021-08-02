@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2021-03-02T21:17:37-08:00
 
 ====== Artificial Intelligence ======
@@ -19,6 +19,8 @@ Creation-Date: 2021-03-02T21:17:37-08:00
 	https://www.nytimes.com/2020/06/16/technology/chatbots-quarantine-coronavirus.html
 
 ==== Unsorted ====
+	https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/
+	https://hbr.org/podcast/2021/04/mapping-ais-societal-impact
 	https://arstechnica.com/information-technology/2017/05/an-ai-invented-a-bunch-of-new-paint-colors-that-are-hilariously-wrong/
 	aiweirdness.com
 	https://thenextweb.com/insights/2018/01/22/i-trained-an-ai-to-copy-my-voice-and-scared-myself-silly/
