@@ -32,4 +32,3 @@ Creation-Date: 2020-06-10T22:09:38-07:00
 [[+Tech_Philanthropy]]
 [[+Tech_Work_Culture]]
 [[+Wearables]]
-[[+MJ_Media_recs]]
